@@ -1,0 +1,19 @@
+从github上克隆
+git clone https://xxxxxxxxxxxxxxxx.git
+
+参考
+https://www.cnblogs.com/xumqfaith/p/7050806.html
+
+
+同步到github
+git rebase origin/master 
+git pull --rebase 
+git push origin master 
+
+参考
+https://blog.csdn.net/mp624183768/article/details/85059173
+
+
+合并/删除commit 
+参考
+https://blog.csdn.net/u013276277/article/details/82470177
