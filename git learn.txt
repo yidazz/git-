@@ -1,5 +1,5 @@
 从github上克隆
-git clone https://xxxxxxxxxxxxxxxx.git
+git clone https://github.com/yidazz/SniperTool.git
 
 参考
 https://www.cnblogs.com/xumqfaith/p/7050806.html
