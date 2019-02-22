@@ -1,11 +1,11 @@
-´ÓgithubÉÏ¿ËÂ¡
+ä»githubä¸Šå…‹éš†
 git clone https://xxxxxxxxxxxxxxxx.git
 
-²Î¿¼
+å‚è€ƒ
 https://www.cnblogs.com/xumqfaith/p/7050806.html
 
 
-Í¬²½µ½github
+åŒæ­¥åˆ°github
 git remote add origin https://github.com/yidazz/git-.git
 git push -u origin master
 
@@ -13,10 +13,14 @@ git rebase origin/master
 git pull --rebase 
 git push origin master 
 
-²Î¿¼
+å‚è€ƒ
 https://blog.csdn.net/mp624183768/article/details/85059173
 
 
-ºÏ²¢/É¾³ıcommit 
-²Î¿¼
+åˆå¹¶/åˆ é™¤commit 
+å‚è€ƒ
 https://blog.csdn.net/u013276277/article/details/82470177
+
+ä¿®æ”¹commitè®°å½•
+å‚è€ƒ
+https://blog.csdn.net/gorgeouschou/article/details/82935621
